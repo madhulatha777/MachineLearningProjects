@@ -1,0 +1,6 @@
+[ 2025-03-10 18:47:10,588 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-03-10 18:47:10,606 ] 97 werkzeug - INFO -  * Debugger PIN: 112-453-271
+[ 2025-03-10 18:47:27,734 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 18:47:27] "GET / HTTP/1.1" 200 -
+[ 2025-03-10 18:47:27,773 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 18:47:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-03-10 18:48:04,071 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 18:48:04] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-03-10 18:48:30,339 ] 97 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 18:48:30] "POST /predictdata HTTP/1.1" 200 -
