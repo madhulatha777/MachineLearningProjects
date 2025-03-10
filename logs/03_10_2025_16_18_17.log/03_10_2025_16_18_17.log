@@ -1,0 +1,13 @@
+[ 2025-03-10 16:18:19,918 ] 24 root - INFO - Entered the Data Ingestion method or component
+[ 2025-03-10 16:18:19,923 ] 27 root - INFO - Read the Dataset as DataFrame
+[ 2025-03-10 16:18:19,929 ] 33 root - INFO - Train Test Split is Initiated
+[ 2025-03-10 16:18:19,936 ] 39 root - INFO - Ingestion os the data is completed
+[ 2025-03-10 16:18:19,965 ] 71 root - INFO - Read train and test data completed
+[ 2025-03-10 16:18:19,966 ] 73 root - INFO - Obtaining preprocessing object
+[ 2025-03-10 16:18:19,966 ] 41 root - INFO - Numerical Column Scaling is completed
+[ 2025-03-10 16:18:19,966 ] 51 root - INFO - Categorical Column Encoding is completed
+[ 2025-03-10 16:18:19,981 ] 86 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-03-10 16:18:20,001 ] 98 root - INFO - Saved preprocessing object.
+[ 2025-03-10 16:18:20,006 ] 32 root - INFO - Split training and test input data
+[ 2025-03-10 16:19:45,732 ] 146 root - INFO - best found model on both training and testing data
+[ 2025-03-10 16:19:45,735 ] 156 root - INFO - Linear Regression is used for prediction and R2-Score is 0.8804332983749564
